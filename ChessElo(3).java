@@ -6,7 +6,7 @@ import java.util.Scanner;
  * <p>
  * This program will calculate a player's chess Elo under different conditions.
  *
- * @author YourNameHere, YourLabSectionHere
+ * @author Kuiyan Zhao, YourLabSectionHere
  * @version 2024-02-17
  */
 
