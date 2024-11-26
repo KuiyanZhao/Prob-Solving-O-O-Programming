@@ -2,7 +2,7 @@
  * HW-06 -- Help a user determine their repayment options for potential credit card balances.
  * <p>
  *
- * @author YourNameHere, YourLabSectionHere
+ * @author Kuiyan Zhao, YourLabSectionHere
  * @version 2024-02-15
  */
 public class Card {
